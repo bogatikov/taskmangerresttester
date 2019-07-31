@@ -1,6 +1,6 @@
-package my.stresstest.test.generator;
+package my.just.tester.generator;
 
-import my.stresstest.test.data.User;
+import my.just.tester.data.User;
 
 import java.io.*;
 import java.util.ArrayList;

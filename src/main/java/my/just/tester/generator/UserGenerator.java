@@ -1,9 +1,9 @@
-package my.stresstest.test.generator;
+package my.just.tester.generator;
 
-import my.stresstest.test.data.User;
-import my.stresstest.test.request.Request;
+import my.just.tester.data.User;
+import my.just.tester.request.Request;
 
-import static my.stresstest.test.utils.Util.generateRandomString;
+import static my.just.tester.utils.Util.generateRandomString;
 
 public class UserGenerator {
     private final UserStorage userStorage;

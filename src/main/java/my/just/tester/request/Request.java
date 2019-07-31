@@ -1,12 +1,12 @@
-package my.stresstest.test.request;
+package my.just.tester.request;
 
 import kong.unirest.HttpResponse;
 import kong.unirest.JsonNode;
 import kong.unirest.Unirest;
-import my.stresstest.test.data.Task;
-import my.stresstest.test.data.User;
-import my.stresstest.test.generator.UserGenerator;
-import my.stresstest.test.utils.Util;
+import my.just.tester.data.Task;
+import my.just.tester.data.User;
+import my.just.tester.generator.UserGenerator;
+import my.just.tester.utils.Util;
 
 import java.util.Date;
 import java.util.HashMap;

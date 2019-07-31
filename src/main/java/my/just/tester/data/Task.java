@@ -1,4 +1,4 @@
-package my.stresstest.test.data;
+package my.just.tester.data;
 
 import java.util.Date;
 

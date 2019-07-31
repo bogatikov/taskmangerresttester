@@ -1,4 +1,4 @@
-package my.stresstest.test.utils;
+package my.just.tester.utils;
 
 import java.util.Random;
 

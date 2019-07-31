@@ -1,7 +1,7 @@
-package my.stresstest.test;
+package my.just.tester;
 
-import my.stresstest.test.data.User;
-import my.stresstest.test.request.Request;
+import my.just.tester.data.User;
+import my.just.tester.request.Request;
 
 import java.util.List;
 import java.util.concurrent.atomic.AtomicInteger;

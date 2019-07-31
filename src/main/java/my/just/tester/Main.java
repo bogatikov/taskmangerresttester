@@ -1,10 +1,9 @@
-package my.stresstest.test;
+package my.just.tester;
 
 import kong.unirest.JacksonObjectMapper;
 import kong.unirest.Unirest;
-import my.stresstest.test.data.User;
-import my.stresstest.test.generator.UserGenerator;
-import my.stresstest.test.generator.UserStorage;
+import my.just.tester.data.User;
+import my.just.tester.generator.UserStorage;
 
 import java.io.IOException;
 import java.util.ArrayList;

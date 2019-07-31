@@ -1,4 +1,4 @@
-package my.stresstest.test.request;
+package my.just.tester.request;
 
 class AuthRequest {
     public String username;
